@@ -1,4 +1,4 @@
-﻿# Musician Landing Page
+﻿# Music Artist Landing Page
 
 A landing page for music artist Kehlani to demonstrate front-end basics.  
   
